@@ -1,0 +1,2 @@
+//Compression factor
+int factor;
